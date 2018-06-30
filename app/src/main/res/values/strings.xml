@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Death Note</string>
+    <string name="register">Register</string>
+    <string name="sing_in">Sign in</string>
+    <string name="delete">Delete</string>
+    <string name="new_note">New note</string>
+</resources>
